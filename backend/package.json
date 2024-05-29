@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "build": "npm run build"
+    "build": "echo 'Build step not required for this project'"
   },
   "keywords": [],
   "author": "",
